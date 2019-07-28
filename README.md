@@ -9,4 +9,5 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 a lot of lectures , famous training 
+thanks for the help 
 Sample website with plenty of files for demos
