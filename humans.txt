@@ -7,7 +7,6 @@
 
 # THANKS
 	#chaitra
-
     <name>
 
 # TECHNOLOGY COLOPHON
